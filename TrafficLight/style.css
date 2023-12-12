@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-box {
+    background-color: #86d2f2;
+    height: 100vh;
+}
+
+.tit {
+    font-weight: 700;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.button-box-1 {
+    color: white;
+    background-color: #1f1d41;
+    border-radius: 10px;
+    padding: 5px 20px 5px 20px;
+}
+
+.button-box-2 {
+    color: white;
+    background-color: #1f1d41;
+    border-radius: 10px;
+    padding: 5px 15px 5px 15px;
+}
+
+.button-box-3 {
+    color: white;
+    background-color: #1f1d41;
+    border-radius: 10px;
+    padding: 5px 26px 5px 26px;
+}
+
+.bg-2 {
+    padding: 15px 10px 15px 10px;
+    height: 35vh;
+    background-color: #1f1d41;
+    border-radius: 30px;
+    margin-left: 15px;
+}
+
+.button-box-container-1 {
+    padding: 20px;
+    border-radius: 30px;
+    background-color: #4b5069;
+
+}
+
+.button-box-container-2 {
+    padding: 20px;
+    border-radius: 30px;
+    background-color: #4b5069;
+}
+
+.button-box-container-3 {
+    padding: 20px;
+    border-radius: 30px;
+    background-color: #4b5069;
+}
